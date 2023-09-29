@@ -1,0 +1,1 @@
+breadth-first search in a object tree. Every object contains left node and right node.

@@ -1,0 +1,1 @@
+implement linux led driver. It should provides open, close, read, write interfaces.

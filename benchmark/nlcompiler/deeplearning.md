@@ -1,0 +1,1 @@
+implement resnet in python with pytorch library. The input image has size 32x32. It should be classified into 10 type.

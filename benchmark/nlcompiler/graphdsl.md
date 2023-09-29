@@ -1,0 +1,1 @@
+create a graph with three node interconnected with each other.
